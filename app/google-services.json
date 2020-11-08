@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "136299914563",
+    "firebase_url": "https://fir-contoh-6289f.firebaseio.com",
+    "project_id": "fir-contoh-6289f",
+    "storage_bucket": "fir-contoh-6289f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136299914563:android:6438790799ba276a707bf6",
+        "android_client_info": {
+          "package_name": "com.bisaai.projectfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136299914563-e1apihuqfmh8sfar8th9i4jojn22926q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bisaai.projectfirebase",
+            "certificate_hash": "9e2645924eeb49ae5bea5d032ec35f2615d951f4"
+          }
+        },
+        {
+          "client_id": "136299914563-1h94rcpgugfk5lo78lfveve5qo39e768.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4lYoaOQSamI59JfI7ZqWw53an2WKxv5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136299914563-1h94rcpgugfk5lo78lfveve5qo39e768.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

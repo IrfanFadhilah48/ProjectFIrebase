@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project FIrebase</string>
+    <string name="nisn">NISN</string>
+    <string name="kelas">Kelas</string>
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="simpan">Simpan</string>
+</resources>
